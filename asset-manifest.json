@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jvracasa/github.io/bradsmart-ph-clone/static/css/main.5f361e03.chunk.css",
+    "main.js": "/jvracasa/github.io/bradsmart-ph-clone/static/js/main.54914575.chunk.js",
+    "main.js.map": "/jvracasa/github.io/bradsmart-ph-clone/static/js/main.54914575.chunk.js.map",
+    "runtime-main.js": "/jvracasa/github.io/bradsmart-ph-clone/static/js/runtime-main.b5067100.js",
+    "runtime-main.js.map": "/jvracasa/github.io/bradsmart-ph-clone/static/js/runtime-main.b5067100.js.map",
+    "static/js/2.13b8fe73.chunk.js": "/jvracasa/github.io/bradsmart-ph-clone/static/js/2.13b8fe73.chunk.js",
+    "static/js/2.13b8fe73.chunk.js.map": "/jvracasa/github.io/bradsmart-ph-clone/static/js/2.13b8fe73.chunk.js.map",
+    "index.html": "/jvracasa/github.io/bradsmart-ph-clone/index.html",
+    "precache-manifest.fb694a00bae70b0c88fe6741df03a487.js": "/jvracasa/github.io/bradsmart-ph-clone/precache-manifest.fb694a00bae70b0c88fe6741df03a487.js",
+    "service-worker.js": "/jvracasa/github.io/bradsmart-ph-clone/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/jvracasa/github.io/bradsmart-ph-clone/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.13b8fe73.chunk.js.LICENSE.txt": "/jvracasa/github.io/bradsmart-ph-clone/static/js/2.13b8fe73.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/jvracasa/github.io/bradsmart-ph-clone/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5067100.js",
+    "static/js/2.13b8fe73.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.54914575.chunk.js"
+  ]
+}
